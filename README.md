@@ -17,7 +17,9 @@ Faça esse curso de HTML e CSS e:
 
 **INSTRUTOR:** Matheus Alberto
 
-**01. Ferramentas, unidades e imagens**
+GitHub Pages: [Acessem](https://tiagomerc.github.io/Layouts-Responsivos-trabalhando-com-layouts-mobile/)
+
+### 01. Ferramentas, unidades e imagens
 
 Nessa aula, aprendemos:
 
@@ -32,3 +34,21 @@ Nessa aula, aprendemos:
 **cabeçalho e chamada**
 
 ![cabeçalho e chamada](img/prints/cabecalhoEchamada.png)
+
+### 02. Layout mobile e variáveis CSS
+
+Nessa aula, aprendemos:
+
+- O que é e para que serve mobile-first;
+
+- Como funciona o **initial-scale** dentro do conteúdo do Viewport;
+
+- Como declarar e chamar variáveis CSS;
+
+**Layout Mobile**
+
+![Layout mobil](img/prints/layoutMobile.png)
+
+**Variáveis CSS**
+
+![Variaveis CSS](img/prints/variaveisCSS.png)
